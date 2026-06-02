@@ -4,6 +4,7 @@
 > Ce projet est **exclusivement destiné à la sensibilisation et à la formation en cybersécurité**.
 > Son déploiement est strictement réservé à des environnements contrôlés, avec le **consentement explicite** des participants et de l'organisation concernée.
 > Toute utilisation malveillante, non autorisée ou à des fins frauduleuses est **illégale** et passible de poursuites pénales (notamment en vertu de la loi française sur la fraude informatique, article 323-1 et suivants du Code pénal).
+> Toutes les données collectées dans le cadre de cette démonstration proviennent exclusivement de comptes de test créés pour l'exercice. Aucun identifiant réel ne doit être utilisé. Le projet est destiné à des environnements de laboratoire ou de sensibilisation avec consentement préalable des participants.
 
 ---
 
