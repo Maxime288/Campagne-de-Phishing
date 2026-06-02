@@ -17,7 +17,7 @@ Il reproduit fidèlement le parcours d'authentification Google en trois étapes 
 2. **Saisie du mot de passe**
 3. **Validation en deux étapes** (code 2FA)
 
-Chaque étape collecte les données saisies dans une base de données MySQL à des fins d'analyse lors des séances de sensibilisation.
+Chaque étape enregistre les informations saisies par les comptes de test dans une base de données MySQL afin d'illustrer les conséquences potentielles d'une attaque de phishing lors des séances de sensibilisation.
 
 ---
 
