@@ -45,13 +45,13 @@ Ce projet permet d'aborder les notions suivantes :
 - Identification des indicateurs de compromission
 - Mise en œuvre des bonnes pratiques de cybersécurité
 ## ⚙️ Prérequis
----
+
 
 - PHP 7.4+
 - MySQL 5.7+ (ou MariaDB)
 - Serveur web Apache ou Nginx (ex : XAMPP, WAMP, Laravel Herd, serveur VPS)
 
----
+
 
 ## 🗄️ Configuration de la base de données
 
