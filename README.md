@@ -28,8 +28,9 @@ Phishing/
 ├── google-password.php    # Page 2 – Formulaire de mot de passe
 ├── google-2fa.php         # Page 3 – Fausse validation 2FA (code à 6 chiffres)
 ├── google-home.html       # Page d'atterrissage / landing page
-├── google-logo-2.png      # Logo Google utilisé dans l'interface
+├── google-logo-2.png      # Logo Google utilisé dans l'interface                     
 └── unnamed.png            # Ressource graphique complémentaire
+└── Campagne de Phishing Google.pdf  # Campagne de Phishing cas concret 
 ```
 
 ---
