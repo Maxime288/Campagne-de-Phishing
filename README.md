@@ -35,8 +35,17 @@ Phishing/
 ```
 
 ---
+## 🎯 Objectifs pédagogiques
 
+Ce projet permet d'aborder les notions suivantes :
+
+- Compréhension des mécanismes de phishing
+- Sensibilisation aux attaques d'ingénierie sociale
+- Analyse du comportement des utilisateurs face à un site frauduleux
+- Identification des indicateurs de compromission
+- Mise en œuvre des bonnes pratiques de cybersécurité
 ## ⚙️ Prérequis
+---
 
 - PHP 7.4+
 - MySQL 5.7+ (ou MariaDB)
