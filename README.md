@@ -245,6 +245,14 @@ L'auteur décline toute responsabilité en cas d'utilisation contraire aux objec
 
 ---
 
+## 🧪 Données de démonstration
+
+Toutes les informations collectées durant les exercices proviennent exclusivement de comptes de test.
+
+Dans un contexte réel de sensibilisation, il est recommandé de remplacer la collecte des champs par des indicateurs anonymisés (clic, progression, abandon) afin d'éviter tout stockage d'informations sensibles.
+
+---
+
 ## 📄 Licence
 
 Ce projet est distribué à des fins **éducatives et de sensibilisation uniquement**.
